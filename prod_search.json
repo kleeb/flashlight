@@ -1,0 +1,5 @@
+{
+    "uid" : "elastic.search.prod",
+    "script" : "app_search.js",
+    "append" : true
+}

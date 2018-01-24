@@ -1,0 +1,5 @@
+{
+    "uid" : "elastic.monitor.prod",
+    "script" : "app_monitor.js",
+    "append" : true
+}
